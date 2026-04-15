@@ -9,9 +9,9 @@ Credit Wise – Loan Approval Prediction
 
 ## 👥 Team Members
 
-- Maharudra Patil 
-- Yash Umdale
-- Kartik Swami
+- Maharudra Patil - 48
+- Yash Umdale - 62
+- Kartik Swami - 59
 
 ---
 
